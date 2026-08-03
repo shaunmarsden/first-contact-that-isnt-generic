@@ -11,13 +11,7 @@ Pick who to reach out to cold and draft a first message worth a reply, anchored 
 
 A cold message that could be sent to anyone in a similar position unchanged is not going to get a reply from this specific person. The usual failure mode is a generic opener dressed up as personal, a claim of relevance with nothing specific behind it, and a request for time before any value has been offered.
 
-```mermaid
-flowchart TB
-    A["1. Paste what you actually know about the target"]
-    B["2. Checked for a real, verifiable signal, not a generic guess"]
-    C["3. A short message earning a reply, or a stop if nothing fits"]
-    A --> B --> C
-```
+![A decision tree for drafting cold contact only when a real signal exists.](assets/diagrams/13-first-contact-that-isnt-generic.svg)
 
 ## Use It
 
