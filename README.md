@@ -11,6 +11,14 @@ Pick who to reach out to cold and draft a first message worth a reply, anchored 
 
 A cold message that could be sent to anyone in a similar position unchanged is not going to get a reply from this specific person. The usual failure mode is a generic opener dressed up as personal, a claim of relevance with nothing specific behind it, and a request for time before any value has been offered.
 
+```mermaid
+flowchart TB
+    A["1. Paste what you actually know about the target"]
+    B["2. Checked for a real, verifiable signal, not a generic guess"]
+    C["3. A short message earning a reply, or a stop if nothing fits"]
+    A --> B --> C
+```
+
 ## Use It
 
 Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini, or similar), then paste in what you actually know. It produces a first message with:
@@ -20,9 +28,19 @@ Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemin
 - **A single, low-friction next step**, usually a short reply, not a meeting request
 - **A subject line that does not give away the pitch**
 
-See [the worked example](example/): a fictional cold job-search outreach, shown as a weak version relying on a generic "you're growing" observation, and a strong version built from the one specific, verifiable fact actually available.
+<details>
+<summary><strong>See exactly what it produces</strong></summary>
 
-Use [the blank template](templates/message-template.md) for your own case.
+1. A target checked past their title or job label, for a real, verifiable signal
+2. An opener anchored to that signal, a small genuine offer, and a low-friction next step
+3. A subject line that does not give away the pitch
+4. A stop, not a guess, whenever no verifiable signal exists or the target does not actually fit
+
+</details>
+
+See [the worked example](example/): a fictional cold job-search outreach, shown as a weak version relying on a generic "you're growing" observation, and a strong version built from the one specific, verifiable fact actually available. For the harder case, a target with no real signal to anchor to and a target who looks like an obvious fit by title but is not, read [the second worked example](example-two/).
+
+Use [the blank template](templates/message-template.md) for your own case, and [the review checklist](checks/checklist.md) before sending.
 
 No installation, project, or coding required to try it once.
 

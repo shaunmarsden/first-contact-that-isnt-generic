@@ -59,4 +59,4 @@ Do not draft a first message when:
 
 This selects a target and drafts a message. Sending it stays subject to explicit human approval.
 
-For a fictional worked example, read [the worked example](example/), including a deliberately weak version shown for contrast. Use [the blank template](templates/message-template.md) for your own case.
+For a fictional worked example, read [the worked example](example/), including a deliberately weak version shown for contrast. For the harder case, a target with no real signal to anchor to and one who looks like an obvious fit by title but is not, read [the second worked example](example-two/). Use [the blank template](templates/message-template.md) for your own case, and [the review checklist](checks/checklist.md) before sending.
