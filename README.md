@@ -42,10 +42,6 @@ No installation, project, or coding required to try it once.
 
 This selects a target and drafts a message. Sending it stays subject to explicit human approval.
 
-## Licence
-
-MIT.
-
 ## Feedback
 
 Used it for a real cold message? [Start a discussion](https://github.com/shaunmarsden/first-contact-that-isnt-generic/discussions) if something did not fit.
