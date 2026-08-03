@@ -11,7 +11,7 @@ Pick who to reach out to cold and draft a first message worth a reply, anchored 
 
 A cold message that could be sent to anyone in a similar position unchanged is not going to get a reply from this specific person. The usual failure mode is a generic opener dressed up as personal, a claim of relevance with nothing specific behind it, and a request for time before any value has been offered.
 
-![A decision tree for drafting cold contact only when a real signal exists.](assets/diagrams/13-first-contact-that-isnt-generic.svg)
+[![A decision tree for drafting cold contact only when a real signal exists.](assets/diagrams/13-first-contact-that-isnt-generic.svg)](SKILL.md)
 
 ## Use It
 
