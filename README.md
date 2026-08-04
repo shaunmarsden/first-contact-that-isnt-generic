@@ -13,6 +13,8 @@ A cold message that could be sent to anyone in a similar position unchanged is n
 
 [![A decision tree for drafting cold contact only when a real signal exists.](assets/diagrams/13-first-contact-that-isnt-generic.svg)](SKILL.md)
 
+**Not what you need?** This is for a cold first message to someone you do not have a relationship with yet. If you already have a template or an existing relationship and just need it personalised for one or more known recipients, [Personalise, Don't Templatise](https://github.com/shaunmarsden/personalise-dont-templatise) is probably the one you want.
+
 ## Use It
 
 Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini, or similar), then paste in what you actually know. It produces a first message with:
