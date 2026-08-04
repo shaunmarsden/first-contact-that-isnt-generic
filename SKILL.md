@@ -5,7 +5,7 @@ description: Pick who to reach out to cold and draft a first message worth a rep
 
 # First Contact That Isn't Generic
 
-You do not need to install anything to try this once: copy this whole file, paste it as your first message in any AI chat tool, then follow it with your actual inputs.
+You do not need to install anything to try this once. The lines between the dashes at the very top are just this file's label; leave them in. On GitHub, copy this using the **Raw** button near the top of the page rather than selecting the rendered text, so the tables and links below paste in cleanly. Send the whole file as your first message in any AI chat tool, then follow it with your actual inputs.
 
 Pick a target and draft a first message worth a reply, without leading with a generic observation or an unverified hook. A message that could be sent to anyone in a similar position unchanged is not going to get a reply from this specific person.
 
