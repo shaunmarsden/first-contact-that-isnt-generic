@@ -1,9 +1,9 @@
 # Human Review Checklist
 
-Run through this before sending.
+Go through this before you send.
 
-- [ ] The opener is anchored to a specific, verifiable signal, not a generic observation
-- [ ] The target's actual public work was checked, not just their title or job label
-- [ ] The offer is small and genuinely useful, not the real thing you actually want
-- [ ] The next step is low-friction, not a meeting request, unless that is a deliberate choice
-- [ ] Nothing was claimed, urgent, or invented that has not actually been confirmed
+- [ ] The opener rests on one specific fact you can check, not a general remark
+- [ ] You checked the target's public work, not just their job title
+- [ ] The offer is small and useful, not the thing you really want
+- [ ] The next step is easy, not a meeting request, unless you chose that on purpose
+- [ ] Nothing in it is claimed, made urgent or invented without being confirmed
