@@ -5,49 +5,49 @@
   <a href="LICENSE"><img alt="Licence: MIT" src="https://img.shields.io/badge/licence-MIT-lightgrey"></a>
 </p>
 
-Pick who to reach out to cold and draft a first message worth a reply, anchored to a real, verifiable signal, not a generic observation.
+Pick who to contact cold and draft a first message worth replying to. Base it on a real fact you can check, not a general remark.
 
 ## Why
 
-A cold message that could be sent to anyone in a similar position unchanged is not going to get a reply from this specific person. The usual failure mode is a generic opener dressed up as personal, a claim of relevance with nothing specific behind it, and a request for time before any value has been offered.
+If you could send a cold message unchanged to anyone in a similar job, this person won't reply to it. The usual mistakes are a general opener made to look personal, a claim to be relevant with nothing specific behind it, and asking for their time before offering anything useful.
 
 [![A decision tree for drafting cold contact only when a real signal exists.](assets/diagrams/13-first-contact-that-isnt-generic.svg)](SKILL.md)
 
-**Not what you need?** This is for a cold first message to someone you do not have a relationship with yet. If you already have a template or an existing relationship and just need it personalised for one or more known recipients, [Personalise, Don't Templatise](https://github.com/shaunmarsden/personalise-dont-templatise) is probably the one you want.
+**Not what you need?** This is for a cold first message to someone you don't know yet. If you already have a template or a relationship and need it personalised for people you know, you probably want [Personalise, Don't Templatise](https://github.com/shaunmarsden/personalise-dont-templatise).
 
 ## Use It
 
-Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini, or similar), then paste in what you actually know. It produces a first message with:
+Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini or similar). Then paste in what you know. You get a first message with:
 
-- **An opener tied to a specific, verifiable signal**, not a generic observation
-- **A low-friction offer**, something small and genuinely useful, not the real thing you actually want
-- **A single, low-friction next step**, usually a short reply, not a meeting request
-- **A subject line that does not give away the pitch**
+- An opener tied to one specific fact you can check, not a general remark
+- A small offer of something useful, not the thing you really want
+- One easy next step, usually a short reply, not a meeting request
+- A subject line that doesn't give away the pitch
 
 <details>
 <summary><strong>See exactly what it produces</strong></summary>
 
-1. A target checked past their title or job label, for a real, verifiable signal
-2. An opener anchored to that signal, a small genuine offer, and a low-friction next step
-3. A subject line that does not give away the pitch
-4. A stop, not a guess, whenever no verifiable signal exists or the target does not actually fit
+1. A target checked beyond their job title, for a real fact you can verify
+2. An opener built on that fact, a small, real offer, and an easy next step
+3. A subject line that doesn't give away the pitch
+4. A stop, not a guess, when there's no fact to check or the target doesn't fit
 
 </details>
 
-See [the worked example](example/): a fictional cold job-search outreach, shown as a weak version relying on a generic "you're growing" observation, and a strong version built from the one specific, verifiable fact actually available. For the harder case, a target with no real signal to anchor to and a target who looks like an obvious fit by title but is not, read [the second worked example](example-two/).
+[The worked example](example/) is a made-up cold message from a job seeker. The weak version relies on a general "you're growing" remark. The strong version uses the one specific fact available that you can check. [The second worked example](example-two/) has the harder cases: a target with no real fact to build on, and a target whose title makes them look like an obvious fit when they aren't.
 
-Use [the blank template](templates/message-template.md) for your own case, and [the review checklist](checks/checklist.md) before sending.
+Use [the blank template](templates/message-template.md) for your own case, and [the review checklist](checks/checklist.md) before you send.
 
-No installation, project, or coding required to try it once.
+You don't need to install anything or write any code to try it once.
 
 ## Before You Use It
 
-This selects a target and drafts a message. Sending it stays subject to explicit human approval.
+This picks a target and drafts a message. A person has to approve it before it's sent.
 
 ## Feedback
 
-Used it for a real cold message? [Start a discussion](https://github.com/shaunmarsden/first-contact-that-isnt-generic/discussions) if something did not fit.
+Used it for a real cold message? [Start a discussion](https://github.com/shaunmarsden/first-contact-that-isnt-generic/discussions) if something didn't fit.
 
 ## Part of a Family
 
-This is one of a family of free tools generalising [practical-ai-sales-workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows) patterns beyond sales. See [sibling-projects](https://github.com/shaunmarsden/sibling-projects) for the rest. Not sure which one actually fits? Try [the interactive picker](https://shaunmarsden.github.io/sibling-projects/) for clickable cards, or [the router](https://github.com/shaunmarsden/sibling-projects/blob/main/ROUTER.md) if you would rather paste a description into an AI chat.
+This is one of a family of free tools that take patterns from [practical-ai-sales-workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows) and use them outside sales. The rest are in [sibling-projects](https://github.com/shaunmarsden/sibling-projects). Not sure which one fits? Try [the interactive picker](https://shaunmarsden.github.io/sibling-projects/), or paste a description of your problem into an AI chat with [the router](https://github.com/shaunmarsden/sibling-projects/blob/main/ROUTER.md).

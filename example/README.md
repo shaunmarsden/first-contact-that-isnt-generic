@@ -1,7 +1,7 @@
 # Worked Example
 
-A fictional cold job-search outreach to a hiring manager, shown as both a weak version (for contrast, not to send) and a strong version, built from the same specific, verifiable signal.
+A made-up cold message from a job seeker to a hiring manager. It's shown twice, built from the same specific fact: a weak version (for contrast, not to send) and a strong one.
 
-- [inputs.md](inputs.md): what was actually confirmed
-- [output.md](output.md): the weak draft and why it fails, followed by the strong draft and why it works
-- [review.md](review.md): whether the strong version actually used the specific fact available, rather than a rewrite of the weak version's generic claim
+- [inputs.md](inputs.md): what was confirmed
+- [output.md](output.md): the weak draft and why it fails, then the strong draft and why it works
+- [review.md](review.md): whether the strong version used the specific fact available, rather than rewording the weak version's general claim

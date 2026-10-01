@@ -1,19 +1,23 @@
-# Honest Review: Weak and Strong Drafts
+# Review: Weak and Strong Drafts
 
-Checking [output.md](output.md) against what [inputs.md](inputs.md) was built to test.
+I checked [output.md](output.md) against what [inputs.md](inputs.md) was built to test.
 
 ## What Worked
 
-- **Correctly identified why the weak version fails, specifically, not just generally.** "I saw that Bramford Analytics is growing" sounds plausible on a first read, and the review named exactly why it does not count as a real signal: it could be sent to any company with any job listing, unconnected to the actual, specific fact available (three listings, same team, one month).
-- **The strong version used the actual specific fact.** Three backend roles for the same team in one month is the real, verifiable signal available in the inputs, and the strong draft's opener is built directly from it, not a paraphrase of the weak version's generic claim.
-- **The offer stayed small and the ask stayed low-friction.** The strong version offers a short write-up, not a meeting, and does not ask for the role directly. This matches the guardrail against leading with the real ask before any value has been offered.
-- **The subject line guidance was followed in the strong version and correctly flagged as a problem in the weak one.** "Exciting opportunity for us both" names the pitch outright; "quick one re your backend team" does not give away the actual reason for the message.
+It said exactly why the weak version fails, not just that it does. "I saw that Bramford Analytics is growing" sounds plausible at first. The output explained why it doesn't count as a real signal. You could send it to any company with any job listing, and it has nothing to do with the specific fact available: three listings, one team, one month.
+
+The strong version used that fact. Three backend roles for the same team in one month is the one real fact in the inputs you can check. The strong draft's opener is built straight from it, not reworded from the weak version's general claim.
+
+The offer stayed small and the ask stayed easy. The strong version offers a short write-up, not a meeting, and doesn't ask for the job. That matches the rule against leading with what you really want before you've offered anything useful.
+
+The strong version followed the subject line advice, and the output flagged the weak one for breaking it. "Exciting opportunity for us both" names the pitch outright. "quick one re your backend team" doesn't give away why you're writing.
 
 ## What Still Needs a Human Check
 
-- Whether Dana Voss is still the right point of contact should be confirmed before sending, job listings can go stale.
-- The sender should actually be prepared to produce the short write-up promised if Dana replies; the offer only works if it is genuinely followed through on.
+Before sending, check that Dana Voss is still the right person to contact. Job listings go out of date.
+
+The sender has to be ready to write the short write-up if Dana replies. The offer only works if they follow through.
 
 ## Verdict
 
-No automatic failure. The weak version was correctly identified as relying on a generic, unverifiable claim, and the strong version was correctly built from the one specific, confirmed fact actually available.
+No automatic failure. The output saw that the weak version relies on a general claim nobody can check. It built the strong version from the one specific, confirmed fact available.

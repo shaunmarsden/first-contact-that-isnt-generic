@@ -1,17 +1,19 @@
-# Honest Review: Two Targets That Should Not Get a Message
+# Review: Two Targets That Should Not Get a Message
 
-Checking [output.md](output.md) against what [inputs.md](inputs.md) was built to test.
+I checked [output.md](output.md) against what [inputs.md](inputs.md) was built to test.
 
 ## What Worked
 
-- **Refused Kai without treating scarcity as a reason to lower the bar.** With nothing else available, a weaker tool might have stretched the one old post into something more current-sounding than it actually is. The output held the same standard rather than making an exception because little else existed.
-- **Checked behind the title for Robin, rather than stopping at "Documentary Producer" as a match.** This is the harder version of target selection: the easy, title-based match was available and plausible-looking, and the output still checked the actual work behind it and found a genuine mismatch.
-- **Gave a concrete condition for each** that would change the answer, rather than a flat, permanent no.
+It turned Kai down without lowering the bar because there was little to go on. With nothing else available, a weaker tool might have made the one old post sound more current than it is. The output kept the same standard rather than making an exception.
+
+For Robin, it looked past the title rather than taking "Documentary Producer" as a match. This is the harder kind of target choice. An easy match on title was there and looked plausible, and the output still checked the work behind it and found it didn't fit.
+
+For each, it gave a clear condition that would change the answer, rather than a flat, permanent no.
 
 ## What Still Needs a Human Check
 
-- Whether either person has activity not captured in what was checked here is worth confirming before ruling either out permanently.
+Before ruling either person out for good, check whether they've done anything that wasn't in what was checked here.
 
 ## Verdict
 
-No automatic failure. Both refusals were substantiated, not just cautious by default: one on genuinely thin evidence, one on an actual mismatch found by checking past the title.
+No automatic failure. Both refusals had grounds, and weren't just cautious by habit. One rested on thin evidence, the other on a real mismatch found by looking past the title.
