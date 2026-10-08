@@ -9,7 +9,7 @@ Pick who to contact cold and draft a first message worth replying to. Base it on
 
 ## Why
 
-If you could send a cold message unchanged to anyone in a similar job, this person won't reply to it. The usual mistakes are a general opener made to look personal, a claim to be relevant with nothing specific behind it, and asking for their time before offering anything useful.
+If you could send a cold message unchanged to anyone in a similar job, this person is unlikely to reply to it. Common mistakes are a general opener made to look personal, a claim to be relevant with nothing specific behind it, and asking for their time before offering anything useful.
 
 [![A decision tree for drafting cold contact only when a real signal exists.](assets/diagrams/13-first-contact-that-isnt-generic.svg)](SKILL.md)
 
@@ -34,7 +34,7 @@ Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemin
 
 </details>
 
-[The worked example](example/) is a made-up cold message from a job seeker. The weak version relies on a general "you're growing" remark. The strong version uses the one specific fact available that you can check. [The second worked example](example-two/) has the harder cases: a target with no real fact to build on, and a target whose title makes them look like an obvious fit when they aren't.
+[The worked example](example/) is a made-up cold message from a job seeker. The weak version relies on a general "you're growing" remark. The strong version uses the strongest specific fact available that you can check. [The second worked example](example-two/) has the harder cases: a target with no real fact to build on, and a target whose title makes them look like an obvious fit when they aren't.
 
 Use [the blank template](templates/message-template.md) for your own case, and [the review checklist](checks/checklist.md) before you send.
 
